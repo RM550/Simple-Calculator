@@ -15,7 +15,7 @@ Welcome to the **Calculator App** repository! 😊 This app is designed to perfo
 
 
 ## 🌐 Live Demo
-Check out the live demo of the Calculator App here: [Calculator App Live Demo](#) 🚀
+Check out the live demo of the Calculator App here: [Calculator App Live Demo](https://rm550.github.io/Simple-Calculator/) 🚀
 
 ## 🎯 Goals
 - Enhance functionality with scientific calculations
